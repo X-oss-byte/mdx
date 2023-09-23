@@ -62,7 +62,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "vue": "^3.0.0",
-    "webpack": "^5.0.0"
+    "webpack": "^5.76.0"
   },
   "scripts": {
     "prepack": "npm run build",
