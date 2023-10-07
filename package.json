@@ -111,7 +111,7 @@
     "vfile-message": "^3.0.0",
     "vfile-reporter": "^7.0.0",
     "vfile-statistics": "^2.0.0",
-    "webpack": "^5.0.0",
+    "webpack": "^5.76.0",
     "xast-util-feed": "^1.0.0",
     "xast-util-sitemap": "^1.0.0",
     "xast-util-to-xml": "^3.0.0",
