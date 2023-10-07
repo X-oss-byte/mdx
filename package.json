@@ -62,7 +62,7 @@
     "p-all": "^4.0.0",
     "patch-package": "^6.0.0",
     "periscopic": "^3.0.0",
-    "postcss": "^8.0.0",
+    "postcss": "^8.4.31",
     "postcss-cli": "^10.0.0",
     "prettier": "^2.0.0",
     "puppeteer-core": "^19.0.0",
